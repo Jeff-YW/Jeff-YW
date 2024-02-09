@@ -54,6 +54,10 @@
       <td><a href="https://github.com/Jeff-YW/YOLO-automation"><b>YOLO Object-Detection Automated Depolyment Framework</b></a></td>
       <td>TODO</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Jeff-YW/MATLAB_Drone_Simulation"><b>Quadcopter drone simulation</b></a></td>
+      <td>TODO</td>
+    </tr>
   </tbody>
 </table>
 
