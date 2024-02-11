@@ -40,23 +40,32 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/Jeff-YW/SML_ROS"><b>Robotics Arm / Allegro Hand Simulation with Visuo-tactile Sensing </b></a></td>
-      <td>TODO</td>
+      <td>This project involves the simulation of a robotic arm integrated with an Allegro Hand, focusing on enhancing its capabilities through visuo-tactile sensing. Tactile sensing is enabled with DIGIT sensor and Tacto interface. 
+        Leveraging ROS (Robot Operating System) and Pybullet (bullet) engine for real-time simulation, the project showcases the implementation of advanced algorithms for tactile sensing and visual feedback, 
+        enabling the robotic hand to perform delicate tasks with precision. </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Jeff-YW/Panda_arm_sensing_and_manipulation"><b>Panda Robot Autonomous Pick and Place Challenge</b></a></td>
-      <td>TODO</td>
+      <td> I developed a fully autonomous system for a Panda robotic arm to perform pick-and-place tasks with high accuracy and efficiency. 
+        Using ROS for system integration, I implemented computer vision techniques to recognize and locate objects, and machine learning algorithms for adaptive grasp planning. 
+        This project highlights my skills in robotics automation, software development for robotic control, and the practical application of machine learning in solving complex tasks in dynamic environments.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Jeff-YW/machine-learning-and-vision-for-driving-behaviour"><b>Visual Machine Learning for Intelligent Vehicle</b></a></td>
-      <td>TODO</td>
+      <td>This project delves into the core aspects of autonomous driving technologies, focusing on replicating human driving behavior at Level 1 autonomy, enhancing lane detection capabilities, 
+        and performing advanced road semantic segmentation. Central to this endeavor is the application of Convolutional Neural Networks (CNNs) and Fully Convolutional Networks (FCNs) 
+        for training robust machine learning models capable of end-to-end predictions and driving video inference. Machine vision pipelines and supporting tools to streamline the entire 
+        inference process were also developed.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Jeff-YW/YOLO-automation"><b>YOLO Object-Detection Automated Depolyment Framework</b></a></td>
-      <td>TODO</td>
+      <td>This projects develops two pipelins for automating YOLO object detection inference.
+        The first pipeline is to compare the performance of YOLO inference capabilities on Python and C++ends.
+        The second pipeline concentrates on evaluating the performance across various YOLO models, analyzing their accuracy, precision and speed.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Jeff-YW/MATLAB_Drone_Simulation"><b>Quadcopter drone simulation</b></a></td>
-      <td>TODO</td>
+      <td>This project entailed creating a simulation of a quadcopter drone in MATLAB, focusing on flight dynamics, control systems, and autonomous navigation simulations.</td>
     </tr>
   </tbody>
 </table>
